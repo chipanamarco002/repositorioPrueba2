@@ -12,6 +12,7 @@ namespace WebAplicationDemo1
         protected void Page_Load(object sender, EventArgs e)
         {
             var a = "test";
+            var test = "test1";
         }
     }
 }
